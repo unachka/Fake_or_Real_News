@@ -1,5 +1,5 @@
-# Fake_or_Real_News
+## Fake or Real News
 
-### Explotory Data Analysis
-### Feature Creations
-### Machine Learning Algorithms
+#### Explotory Data Analysis
+#### Feature Creations
+#### Machine Learning Algorithms
